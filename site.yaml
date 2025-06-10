@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=https://json.schemastore.org/nuejs-site.json
+
+title: My NueJS Site
+description: A minimal NueJS website
+author: Michel Maillard
