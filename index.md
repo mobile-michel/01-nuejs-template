@@ -17,4 +17,6 @@ description: This is a minimal NueJS website. NueJS is a modern static site gene
 
 ## Get Started
 
-To learn more about NueJS, visit [nuejs.org](https://nuejs.org) and particullary the [documentation](https://nuejs.org/docs/) part. 
+To learn more about NueJS, visit [nuejs.org](https://nuejs.org) and particullary the [documentation](https://nuejs.org/docs/) part.
+
+J'ajoute un paragraphe.
